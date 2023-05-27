@@ -2,4 +2,4 @@
 
 bankist web application
 
-[Bankist.Web](https://github.com/badalvashishtha/bankist.web.git)
+[Bankist.Web](https://badalvashishtha.github.io/bankist.web/)
